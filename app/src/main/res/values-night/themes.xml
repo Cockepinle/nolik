@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pract3Class" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/red</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:textColorPrimary">@color/pink</item>
+        <item name="android:navigationBarColor">@color/pink</item>
+    </style>
+
+    <style name="Img" parent="Theme.AppCompat.DayNight">
+        <item name="tint">@color/blue</item>
+    </style>
+</resources>
